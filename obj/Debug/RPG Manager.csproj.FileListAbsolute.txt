@@ -1,7 +1,6 @@
 G:\TwoDoomedPenguins\RPG Manager\RPG Manager\bin\Debug\RPG Manager.exe.config
 G:\TwoDoomedPenguins\RPG Manager\RPG Manager\bin\Debug\RPG Manager.exe
 G:\TwoDoomedPenguins\RPG Manager\RPG Manager\bin\Debug\RPG Manager.pdb
-G:\TwoDoomedPenguins\RPG Manager\RPG Manager\obj\Debug\RPG Manager.csprojResolveAssemblyReference.cache
 G:\TwoDoomedPenguins\RPG Manager\RPG Manager\obj\Debug\RPG_Manager.Form1.resources
 G:\TwoDoomedPenguins\RPG Manager\RPG Manager\obj\Debug\RPG_Manager.Properties.Resources.resources
 G:\TwoDoomedPenguins\RPG Manager\RPG Manager\obj\Debug\RPG Manager.csproj.GenerateResource.Cache
